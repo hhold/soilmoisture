@@ -1,2 +1,2 @@
 # soilmoisture
-Soil Humiidity Testor using YL-38 and Arduino
+Soil Humidity Tester using YL-38 and Arduino
